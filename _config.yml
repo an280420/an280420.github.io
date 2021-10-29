@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: ri
+lang: ru
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Yekaterinburg
@@ -23,12 +23,12 @@ title: Learn Ruby                          # the main title
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
+  A minimal bloq
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://an280420.github.io/knowledge-base-jekyll/'
+url: 'https://an280420.github.io'
 
 github:
   username: an280420             # change to your github username
@@ -40,10 +40,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Anton
-  email: example@doamin.com             # change to your email address
+  # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/an280420       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -72,7 +72,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   # [dark|light]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
