@@ -1,5 +1,5 @@
 ---
-title: Gems
+title: Algoritms
 author: AGN
 date: 2021-11-02 18:30:00 -0500
 categories: [CS]
